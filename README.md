@@ -51,10 +51,11 @@ The system utilizes the Zigbee protocol for wireless communication between senso
 
 ## Installation and Setup
 
-1. Install Zigbee communication modules and RFID tags in the coal mine environment.
-2. Configure software monitoring system for data collection and analysis.
-3. Connect sensors for monitoring environmental conditions and equipment status.
-4. Test alerting system and ensure proper functionality.
+1. Install Arduino IDE on your computer. You can download it from [Arduino's official website](https://www.arduino.cc/en/software).
+2. Connect the Zigbee communication modules, RFID tags, and sensors following the provided circuit diagram.
+3. Upload the Arduino code to the ATmega328 microcontroller using Arduino IDE.
+4. Configure software monitoring system for data collection and analysis.
+5. Deploy sensor data to the ThingSpeak website for cloud-based monitoring. Sign up for a ThingSpeak account at [ThingSpeak](https://thingspeak.com/) and follow the instructions to create channels and upload data.
 
 ## Usage
 
